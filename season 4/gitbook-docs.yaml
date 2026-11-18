@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Tollan Universe Season 4
+  structure:
+    - type: space
+      key: space-1
+      title: English
+      path: english
+      default: true
+      content:
+        directory: ./season4-english
+        language: en
