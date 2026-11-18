@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Tollan Universe Docs
+  structure:
+    - type: space
+      key: space-1
+      title: Tollan Universe Docs
+      path: tollan-universe-docs
+      default: true
+      content:
+        directory: ./tollan-universe-docs
