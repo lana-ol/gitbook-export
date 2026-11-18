@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Tollan Universe Lunar New Year
+  structure:
+    - type: space
+      key: space-1
+      title: Tollan Universe Lunar New Year
+      path: tollan-universe-lunar-new-year
+      default: true
+      content:
+        directory: ./tollan-universe-lunar-new-year
