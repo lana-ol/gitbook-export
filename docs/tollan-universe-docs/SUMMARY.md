@@ -63,6 +63,7 @@
 ## Results
 
 * [Space Conquest](results/space-conquest/README.md)
+  * [Week 2](results/space-conquest/week-2.md)
   * [Week 1](results/space-conquest/week-1.md)
 * [Season 5](results/season-5/README.md)
   * [Week 18](results/season-5/week-18.md)
